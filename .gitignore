@@ -100,7 +100,7 @@ celerybeat-schedule
 celerybeat.pid
 
 # PyCharm
-.idea/
+.idea
 .DS_Store
 
 # SageMath parsed files
