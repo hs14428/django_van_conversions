@@ -101,6 +101,7 @@ celerybeat.pid
 
 # PyCharm
 .idea/
+.DS_Store
 
 # SageMath parsed files
 *.sage.py
